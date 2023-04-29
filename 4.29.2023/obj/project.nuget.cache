@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFSqRU1Z68B+8mTL2hEcOAmdpXPgVDmjXi914tOPe6OdhoA5Nrl/IQyJwZVWKm7EqjfHz7otDZV46akL02PfuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alber\\Desktop\\4.29.2023\\4.29.2023\\4.29.2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alber\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\4.29.2023.exe
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\4.29.2023.deps.json
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\4.29.2023.runtimeconfig.json
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\4.29.2023.dll
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\4.29.2023.pdb
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.AssemblyInfo.cs
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.csproj.CopyComplete
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.dll
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\refint\4.29.2023.dll
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.pdb
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\4.29.2023.genruntimeconfig.cache
+C:\Users\Alber\Desktop\4.29.2023\4.29.2023\obj\Debug\net6.0\ref\4.29.2023.dll
